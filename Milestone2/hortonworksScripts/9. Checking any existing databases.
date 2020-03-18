@@ -1,0 +1,3 @@
+cd Documents/wqd7005/cleanedData
+hive
+show databases;
