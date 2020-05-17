@@ -11,4 +11,4 @@ Python Script (goldCrawler) Milestone 1 : https://github.com/guna3006/WQD7005_Da
 
 Python Script (oilCrawl) Milestone 1 : https://github.com/guna3006/WQD7005_DataMining/tree/master/Milestone1/oilCrawl
 
-Video Tutorial Milestone 1 : https://youtu.be/S5W5C-UIJGw
+Video Tutorial Milestone 1 : https://www.youtube.com/watch?v=S5W5C-UIJGw

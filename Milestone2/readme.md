@@ -13,4 +13,4 @@ Hive Script To Storing Data Into HIVE Using Data Warehouse Milestone 2 : https:/
 
 Storing Data Into HIVE Using Data Warehouse Milestone 2 : https://github.com/guna3006/WQD7005_DataMining/tree/master/Milestone2/ImportingToHive
 
-Video Tutorial Milestone 2 : https://youtu.be/jxnRHvS6x_M
+Video Tutorial Milestone 2 : https://www.youtube.com/watch?v=jxnRHvS6x_M
