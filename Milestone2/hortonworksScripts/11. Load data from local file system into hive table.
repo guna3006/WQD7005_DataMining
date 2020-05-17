@@ -1,3 +1,0 @@
-LOAD DATA LOCAL INPATH '/home/student/wqd7005/cleanedData/cleanOilRate.csv' INTO TABLE  oilRate;
-LOAD DATA LOCAL INPATH '/home/student/wqd7005/cleanedData/cleanCurrencyExchange.csv' INTO TABLE  currencyExchange;
-LOAD DATA LOCAL INPATH '/home/student/wqd7005/cleanedData/cleanGoldRate.csv' INTO TABLE  goldRate;

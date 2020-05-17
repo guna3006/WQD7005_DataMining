@@ -1,8 +1,0 @@
-CREATE TABLE oilRate (MonthYear string,
-Price double,
-Open double,
-High double,
-Low double,
-Close double,
-Change double)
-ROW FORMAT DELIMITED FIELDS TERMINATED BY ',';
