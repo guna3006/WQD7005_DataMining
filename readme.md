@@ -9,15 +9,18 @@ Installing SAS Enterprise Miner
 ------------
 https://github.com/guna3006/WQD7005_DataMining/tree/master/InstallSASEnterpriseMiner
 
+Midterm Exam
+------------
+https://github.com/guna3006/WQD7005_DataMining/tree/master/Midterm
+
+LabExercise1
+------------
+https://github.com/guna3006/WQD7005_DataMining/tree/master/LabExercise1
+
 
 Assignment Tittle
 ------------
 https://github.com/guna3006/WQD7005_DataMining/tree/master/AssignmnentTittle
-
-
-Midterm Exam
-------------
-https://github.com/guna3006/WQD7005_DataMining/tree/master/Midterm
 
 
 
@@ -39,11 +42,18 @@ Milestone 3
 ------------
 Python Script Milestone 3 : https://github.com/guna3006/WQD7005_DataMining/tree/master/Milestone3
 
-Video Tutorial Milestone 3 : **pending upload due to error to connect.
+Video Tutorial Milestone 3 : https://www.youtube.com/watch?v=ikzyAEeix_Y
 
 
 Milestone 4
 ------------
 Python Script Milestone 4 : https://github.com/guna3006/WQD7005_DataMining/tree/master/Milestone4
 
-Video Tutorial Milestone 4 : --
+Video Tutorial Milestone 4 : https://www.youtube.com/watch?v=xRBucdTdHLc
+
+
+Milestone 5
+------------
+Python Script Milestone 5 : https://github.com/guna3006/WQD7005_DataMining/tree/master/Milestone5
+
+Video Tutorial Milestone 5 : https://www.youtube.com/watch?
