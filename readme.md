@@ -17,6 +17,10 @@ LabExercise1
 ------------
 https://github.com/guna3006/WQD7005_DataMining/tree/master/LabExercise1
 
+LabExercise2
+------------
+https://github.com/guna3006/WQD7005_DataMining/tree/master/LabExercise2
+
 
 Assignment Tittle
 ------------
