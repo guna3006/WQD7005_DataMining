@@ -14,7 +14,7 @@ protocol WeatherManagerDelegate { //[Delegate] 1. delegate WeatherManager
     func didFailWithError(error : Error )
 }
 struct WeatherManager{
-    //https://openweathermap.org/api/one-call-api?gclid=EAIaIQobChMI-vnWsZeE6gIVmgsrCh3GxQbxEAAYAiAAEgLsT_D_BwE
+//https://openweathermap.org/api/one-call-api?gclid=EAIaIQobChMI-vnWsZeE6gIVmgsrCh3GxQbxEAAYAiAAEgLsT_D_BwE
     let weatherURL = "https://api.openweathermap.org/data/2.5/weather?appid=e2d4502d62c34e34acd375542c4315d2&units=metric"
     var delegate : WeatherManagerDelegate? //[Delegate] 2. delegate WeatherManager
     
