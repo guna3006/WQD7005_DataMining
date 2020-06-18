@@ -13,6 +13,14 @@ Midterm Exam
 ------------
 https://github.com/guna3006/WQD7005_DataMining/tree/master/Midterm
 
+Midterm Exam Attempt2
+------------
+https://github.com/guna3006/WQD7005_DataMining/tree/master/MidTermExamAttempt2
+
+Final Exam
+------------
+https://github.com/guna3006/WQD7005_DataMining/tree/master/FinalExam
+
 LabExercise1
 ------------
 https://github.com/guna3006/WQD7005_DataMining/tree/master/LabExercise1
@@ -60,4 +68,4 @@ Milestone 5
 ------------
 Python Script Milestone 5 : https://github.com/guna3006/WQD7005_DataMining/tree/master/Milestone5
 
-Video Tutorial Milestone 5 : https://www.youtube.com/watch?
+Video Tutorial Milestone 5 : https://www.youtube.com/watch?v=_0AwKGqXF2g
